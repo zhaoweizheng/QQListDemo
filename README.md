@@ -1,6 +1,6 @@
 #QQ列表二级栏
 >啥话也不说, 上图
-
+![](https://github.com/zhaoweizheng/QQListDemo/raw/master//qqList.gif)
 >![](https://github.com/zhaoweizheng/QQListDemo/qqList.gif )
 >其实主要是做区头, 给区头做点击事件, 通过bool值判断是否展开, 也就是刷新
 >
